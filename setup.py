@@ -26,7 +26,7 @@ setup(
     description="Hive support for Feast offline store",
     long_description=readme,
     long_description_content_type="text/markdown",
-    python_requires=">=3.7.0",
+    python_requires=">=3.6.0",
     url="https://github.com/baineng/feast-hive",
     project_urls={
         "Bug Tracker": "https://github.com/baineng/feast-hive/issues",
